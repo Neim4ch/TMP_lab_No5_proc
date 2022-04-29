@@ -1,14 +1,99 @@
 Filled container. 
 Unsorted cont. 
-Container contents 0 elements.
+Container contents 11 elements.
+0: This is "Star_Wars". It is feature film. Director is Lucas
+Number of vowels = 2
+The picture was filmed in USA.
+1: This is "Cartoon1". It is animation film. It's way of creation is drawing.
+Number of vowels = 3
+The picture was filmed in Japan.
+2: This is "Cartoon2aaa". It is animation film. It's way of creation is using dolls
+Number of vowels = 6
+The picture was filmed in China.
+3: This is "Cartoon3aaaa". It is animation film. It's way of creation is stop motion
+Number of vowels = 7
+The picture was filmed in Korea.
+4: This is "Goodfellas". It is feature film. Director is Scorsese
+Number of vowels = 4
+The picture was filmed in USA.
+5: This is "Schindler's_List". It is feature film. Director is Spielberg
+Number of vowels = 3
+The picture was filmed in USA.
+6: This is "Doc1oo". It is documentary film. It's year of creation is 1999
+Number of vowels = 3
+The picture was filmed in Russia.
+7: This is "Doc2o". It is documentary film. It's year of creation is 2005
+Number of vowels = 2
+The picture was filmed in Italy.
+8: This is "Titanic". It is feature film. Director is Cameron
+Number of vowels = 3
+The picture was filmed in USA.
+9: This is "Cheburashka". It is animation film. It's way of creation is using dolls
+Number of vowels = 4
+The picture was filmed in Russia.
+10: This is "doc2". It is documentary film. It's year of creation is 1986
+Number of vowels = 1
+The picture was filmed in Hungary.
 
 
 
 Sorted cont. 
-Container contents 0 elements.
+Container contents 11 elements.
+0: This is "Cartoon3aaaa". It is animation film. It's way of creation is stop motion
+Number of vowels = 7
+The picture was filmed in Korea.
+1: This is "Cartoon2aaa". It is animation film. It's way of creation is using dolls
+Number of vowels = 6
+The picture was filmed in China.
+2: This is "Goodfellas". It is feature film. Director is Scorsese
+Number of vowels = 4
+The picture was filmed in USA.
+3: This is "Cheburashka". It is animation film. It's way of creation is using dolls
+Number of vowels = 4
+The picture was filmed in Russia.
+4: This is "Schindler's_List". It is feature film. Director is Spielberg
+Number of vowels = 3
+The picture was filmed in USA.
+5: This is "Doc1oo". It is documentary film. It's year of creation is 1999
+Number of vowels = 3
+The picture was filmed in Russia.
+6: This is "Titanic". It is feature film. Director is Cameron
+Number of vowels = 3
+The picture was filmed in USA.
+7: This is "Cartoon1". It is animation film. It's way of creation is drawing.
+Number of vowels = 3
+The picture was filmed in Japan.
+8: This is "Star_Wars". It is feature film. Director is Lucas
+Number of vowels = 2
+The picture was filmed in USA.
+9: This is "Doc2o". It is documentary film. It's year of creation is 2005
+Number of vowels = 2
+The picture was filmed in Italy.
+10: This is "doc2". It is documentary film. It's year of creation is 1986
+Number of vowels = 1
+The picture was filmed in Hungary.
 
 
 
 Only feature films.
+0: 
+1: 
+2: This is "Goodfellas". It is feature film. Director is Scorsese
+Number of vowels = 4
+The picture was filmed in USA.
+3: 
+4: This is "Schindler's_List". It is feature film. Director is Spielberg
+Number of vowels = 3
+The picture was filmed in USA.
+5: 
+6: This is "Titanic". It is feature film. Director is Cameron
+Number of vowels = 3
+The picture was filmed in USA.
+7: 
+8: This is "Star_Wars". It is feature film. Director is Lucas
+Number of vowels = 2
+The picture was filmed in USA.
+9: 
+10: 
 Empty container. 
 Container contents 0 elements.

@@ -17,6 +17,9 @@ int main(int argc, char* argv[])
 
 	fileCheck(ifst);
 
+	ifst.close();
+	ifst.open(argv[1]);
+
 	cout << "Start" << endl;
 	container c;
 
