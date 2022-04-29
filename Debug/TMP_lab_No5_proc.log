@@ -1,0 +1,8 @@
+﻿  Source.cpp
+C:\Users\bushd\source\repos\TMP_lab_No5_proc\TMP_lab_No5_proc\Source.cpp(155,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\bushd\source\repos\TMP_lab_No5_proc\TMP_lab_No5_proc\Source.cpp(229,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\bushd\source\repos\TMP_lab_No5_proc\TMP_lab_No5_proc\Source.cpp(283,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\bushd\source\repos\TMP_lab_No5_proc\TMP_lab_No5_proc\Source.cpp(312,22): warning C4018: '<': signed/unsigned mismatch
+  TMP_lab_No5_proc.cpp
+  Generating Code...
+  TMP_lab_No5_proc.vcxproj -> C:\Users\bushd\source\repos\TMP_lab_No5_proc\Debug\TMP_lab_No5_proc.exe
